@@ -1,0 +1,5 @@
+/home/ojikdev/RiderProjects/MTA-Training/DayOneArray/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ojikdev/RiderProjects/MTA-Training/DayOneArray/bin/Debug/DayOneArray.exe.mdb
+/home/ojikdev/RiderProjects/MTA-Training/DayOneArray/bin/Debug/DayOneArray.exe
+/home/ojikdev/RiderProjects/MTA-Training/DayOneArray/obj/Debug/DayOneArray.exe
+/home/ojikdev/RiderProjects/MTA-Training/DayOneArray/obj/Debug/DayOneArray.exe.mdb

@@ -1,0 +1,5 @@
+/home/ojikdev/RiderProjects/MTA-Training/DayOneDoWhile/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ojikdev/RiderProjects/MTA-Training/DayOneDoWhile/bin/Debug/DayOneDoWhile.exe.mdb
+/home/ojikdev/RiderProjects/MTA-Training/DayOneDoWhile/bin/Debug/DayOneDoWhile.exe
+/home/ojikdev/RiderProjects/MTA-Training/DayOneDoWhile/obj/Debug/DayOneDoWhile.exe
+/home/ojikdev/RiderProjects/MTA-Training/DayOneDoWhile/obj/Debug/DayOneDoWhile.exe.mdb

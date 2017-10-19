@@ -1,0 +1,5 @@
+/home/ojikdev/RiderProjects/MTA-Training/DayOneExceptionHandling/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ojikdev/RiderProjects/MTA-Training/DayOneExceptionHandling/bin/Debug/DayOneExceptionHandling.exe.mdb
+/home/ojikdev/RiderProjects/MTA-Training/DayOneExceptionHandling/bin/Debug/DayOneExceptionHandling.exe
+/home/ojikdev/RiderProjects/MTA-Training/DayOneExceptionHandling/obj/Debug/DayOneExceptionHandling.exe
+/home/ojikdev/RiderProjects/MTA-Training/DayOneExceptionHandling/obj/Debug/DayOneExceptionHandling.exe.mdb

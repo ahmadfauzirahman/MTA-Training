@@ -1,0 +1,5 @@
+/home/ojikdev/RiderProjects/MTA-Training/OneDayForTest/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ojikdev/RiderProjects/MTA-Training/OneDayForTest/bin/Debug/OneDayForTest.exe.mdb
+/home/ojikdev/RiderProjects/MTA-Training/OneDayForTest/bin/Debug/OneDayForTest.exe
+/home/ojikdev/RiderProjects/MTA-Training/OneDayForTest/obj/Debug/OneDayForTest.exe
+/home/ojikdev/RiderProjects/MTA-Training/OneDayForTest/obj/Debug/OneDayForTest.exe.mdb

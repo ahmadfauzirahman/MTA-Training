@@ -1,0 +1,5 @@
+/home/ojikdev/RiderProjects/MTA-Training/DayOneForeach/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ojikdev/RiderProjects/MTA-Training/DayOneForeach/bin/Debug/DayOneForeach.exe.mdb
+/home/ojikdev/RiderProjects/MTA-Training/DayOneForeach/bin/Debug/DayOneForeach.exe
+/home/ojikdev/RiderProjects/MTA-Training/DayOneForeach/obj/Debug/DayOneForeach.exe
+/home/ojikdev/RiderProjects/MTA-Training/DayOneForeach/obj/Debug/DayOneForeach.exe.mdb

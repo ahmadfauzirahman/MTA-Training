@@ -1,0 +1,5 @@
+/home/ojikdev/RiderProjects/MTA-Training/DayOneSwitch/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ojikdev/RiderProjects/MTA-Training/DayOneSwitch/bin/Debug/DayOneSwitch.exe.mdb
+/home/ojikdev/RiderProjects/MTA-Training/DayOneSwitch/bin/Debug/DayOneSwitch.exe
+/home/ojikdev/RiderProjects/MTA-Training/DayOneSwitch/obj/Debug/DayOneSwitch.exe
+/home/ojikdev/RiderProjects/MTA-Training/DayOneSwitch/obj/Debug/DayOneSwitch.exe.mdb

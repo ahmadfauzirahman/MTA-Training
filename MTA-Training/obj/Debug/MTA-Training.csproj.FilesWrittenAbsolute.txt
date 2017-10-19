@@ -1,0 +1,5 @@
+/home/ojikdev/RiderProjects/MTA-Training/MTA-Training/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ojikdev/RiderProjects/MTA-Training/MTA-Training/bin/Debug/MTA_Training.exe.mdb
+/home/ojikdev/RiderProjects/MTA-Training/MTA-Training/bin/Debug/MTA_Training.exe
+/home/ojikdev/RiderProjects/MTA-Training/MTA-Training/obj/Debug/MTA_Training.exe
+/home/ojikdev/RiderProjects/MTA-Training/MTA-Training/obj/Debug/MTA_Training.exe.mdb

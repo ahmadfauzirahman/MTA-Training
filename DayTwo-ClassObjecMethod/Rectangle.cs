@@ -1,4 +1,6 @@
-﻿namespace DayTwo_ClassObjecMethod
+﻿using System;
+
+namespace DayTwo_ClassObjecMethod
 {
     public class Rectangle
     {
@@ -10,7 +12,6 @@
             this.length = l;
             this.width = w;
         }
-
         public double GetArea()
         {
             return this.width * this.length;
